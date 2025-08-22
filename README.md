@@ -5,3 +5,5 @@ Game number 1: Auction, the Silent Auction game lets players bid competitively o
 Game number 2: Number Guessing, the Number Guessing game challenges players to guess a secret number between 1 and 100 within limited attempts. With difficulty levels, hints for close guesses, and a running scoreboard, it’s a fun test of logic and luck.
 
 Game number 3: Black Jack, A simple Python-based Blackjack game where you play against the computer, draw cards strategically, and try to reach 21 without going over.
+
+Game number 4: Higher or Lower, A fun Python-based Higher or Lower game where you guess which celebrity has more Instagram followers, testing your intuition and knowledge of social media popularity.
