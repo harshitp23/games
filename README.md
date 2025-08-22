@@ -7,3 +7,5 @@ Game number 2: Number Guessing, the Number Guessing game challenges players to g
 Game number 3: Black Jack, A simple Python-based Blackjack game where you play against the computer, draw cards strategically, and try to reach 21 without going over.
 
 Game number 4: Higher or Lower, A fun Python-based Higher or Lower game where you guess which celebrity has more Instagram followers, testing your intuition and knowledge of social media popularity.
+
+Game number 5: Who Wants to be a Millionaire, A Python-based Who Wants to Be a Millionaire? quiz game featuring multiple-choice questions, lifelines like 50-50, Hint, and Skip, and progressive cash rewards in dollars.
